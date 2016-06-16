@@ -9,4 +9,4 @@ Installing the plugin is pretty straight forward. Instructions are shown below.
 ![alt tag](Readme_images/Screen Shot 2016-06-16 at 3.22.21 PM.png?raw=true "Extensions Browser")
 
 3) Type unpack extentions on your browser
-![alt tag](Readme_images/Screen Shot 2016-06-16 at 3.22.46 PM?raw=true "Unpack Extensions")
+![alt tag](Readme_images/Screen Shot 2016-06-16 at 3.22.46 PM.png?raw=true "Unpack Extensions")

@@ -1,5 +1,5 @@
 # YoutubeEscape
-This is a little extension to get rid of all the distracting videos on youtube. Here is a medium post about it:
+This is a little extension to get rid of all the distracting videos on youtube. Here is a medium post about it: <a href="https://medium.com/abhishek-pratapa/youtube-problem-part-1-43ca73237c8a#.palks0rbj">Article On Medium</a>
 
 
 Installing the plugin is pretty straight forward. Instructions are shown below.
